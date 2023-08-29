@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 hello github，这是新增的代码
+=======
+这是新增的代码
+>>>>>>> 96d40875b4232ce9534285989b804eb33dd938d3
+先pull再push
